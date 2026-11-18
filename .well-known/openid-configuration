@@ -1,0 +1,22 @@
+{
+  "issuer": "https://a4abinash-kr.github.io/rubrik-oci-oidc-poc",
+  "jwks_uri": "https://a4abinash-kr.github.io/rubrik-oci-oidc-poc/jwks.json",
+  "response_types_supported": [
+    "id_token"
+  ],
+  "subject_types_supported": [
+    "public"
+  ],
+  "id_token_signing_alg_values_supported": [
+    "ES256",
+    "RS256"
+  ],
+  "claims_supported": [
+    "iss",
+    "sub",
+    "aud",
+    "exp",
+    "iat",
+    "jti"
+  ]
+}
