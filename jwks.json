@@ -4,18 +4,9 @@
       "kty": "RSA",
       "use": "sig",
       "alg": "RS256",
-      "kid": "A",
-      "n": "klTVr4iRG_2S9vM5rdMf2C_ejEghfoABbHipOqSJQ2irNiOLRuI5Fq-_6RFs0gbHIzLCvvJG0joucUHFql_ML3i5NSelTzKBO9uSSBmpUQtfxeMDonQnqAMUeMNnWV3zKAJfHdFZqLwz3jZXPWzIzN-QzbefhNdXAzyWLWWGlYvLTk6dNiWmEToDPBf1AlCA0ExqI1js1bTEHYkH_WzxnizObrggrtrdTwks4H5Cz9poymkB9fKEZK8Zvtk8nUniL25GtmJEItlnVbdE2b_wSr9VfBl-_TWS0brv3f7l3NfM2tQbCuT9CUwhmKmUiSHGDBDPBlD5kjxQilEWHrW-kw",
+      "kid": "B",
+      "n": "uzE3iVXxJ3iQI66laD7TxQ-0CC92URXoH3bX_Y8dANwqAN-aySc_y57b46phmpgQGLsaSxzsj-Sb6N_1Wt4yB6kB_-o-gC95B01RejGdst60fDDW6YRvljYCv8x4hz_PUTpGVSJGGQORnLFlw4SWHTrFYONAjVeHquCdLAm9Wdu_L3dQLh0SXHg5hpv8unM7Jw3AQohQVnEdT2nwksG24GcOLNZXiKvUyLzfWs4pF1PElsdwVrIxEsTBJDA-_KCFa6qHzxK_smHtftZZ_qFKyZQJ0Y6OPXp8qkXiI2i3AsD0r1SY5tCjcl1st9OvYZPGZ26aBy8ScNr4FzxM9J2eAQ",
       "e": "AQAB"
-    },
-    {
-      "kty": "EC",
-      "crv": "P-256",
-      "use": "sig",
-      "alg": "ES256",
-      "kid": "EC",
-      "x": "KjQWj-8PNeajvCrwi6uPBg-iTofEcNbz4CV2tfLAwVU",
-      "y": "MIAjVRnRhr07cqV86Ow2xWKzJTnCOZWGtthxT9e6Akk"
     }
   ]
 }
