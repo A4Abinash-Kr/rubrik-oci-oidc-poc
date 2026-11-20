@@ -1,1 +1,0 @@
-# rubrik-oci-oidc-poc
